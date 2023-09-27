@@ -1,4 +1,8 @@
 hiii
 hello
+<<<<<<< HEAD
 hello
 hello
+=======
+hello 1
+>>>>>>> main
